@@ -2,8 +2,8 @@ import cv2
 import numpy as np
 
 # EDIT THESE:
-IMAGE_PATH = 'pngwing.com.png' # Edit this to change the image path
-INACCURACY_VALUE = 0.002; # adjust this to change the accuracy of the approximation. The lower, the more accurate but the more equations. It is recommended not to go over 0.03 (3%), but feel free to experiment.
+IMAGE_PATH = 'C:\Users\jonah\Downloads\pngwing.com.png' # Edit this to change the image path
+INACCURACY_VALUE = 0.001; # adjust this to change the accuracy of the approximation. The lower, the more accurate but the more equations. It is recommended not to go over 0.03 (3%), but feel free to experiment.
 
 
 
